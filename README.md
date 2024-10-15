@@ -26,4 +26,4 @@ Opinions are my own 😊
 ## 🌟 Featured Projects
 - [MTA AMX (Maintainer)](https://github.com/multitheftauto/amx/commits?author=colistro123): Helped out by taking part in updating old AMX's compatibility layer to support the latest version of SA-MP's AMX gamemodes, namely 0.3.7.
 - [H1Emu](https://github.com/H1emu/h1z1-server): Helped with initial research.
-- [GTAIV_ExtendVidMem](https://github.com/colistro123/GTAIV_ExtendVidMem): Hot unofficial patch for Grand Theft Auto IV (1.2.0.30) to increase its video memory limit from its 512 MB limitation for AMD users, original post can be found on [reddit](https://www.reddit.com/r/pcgaming/comments/fmppho/gta_iv_unofficial_patch_for_the_512_mb_limit_in/).
+- [GTAIV_ExtendVidMem](https://github.com/colistro123/GTAIV_ExtendVidMem): Hot patch (unofficial) for Grand Theft Auto IV (1.2.0.30) to increase its video memory limit from its 512 MB limitation for AMD users, original post can be found on [reddit](https://www.reddit.com/r/pcgaming/comments/fmppho/gta_iv_unofficial_patch_for_the_512_mb_limit_in/).
