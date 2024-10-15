@@ -1,4 +1,4 @@
-# Hi there, I'm Colistro123 👋
+# Hi there, I'm Ignacio 👋
 
 ## About Me
 I'm passionate about clean-room reverse engineering and fixing bugs (or reporting them). I also enjoy resolving compatibility issues in legacy software, but above all, I take great satisfaction in assisting others with everyday challenges while adapting to new environments and being thrilled about the next problem to solve.
