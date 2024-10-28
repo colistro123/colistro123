@@ -1,6 +1,8 @@
 # Hi there, I'm Ignacio 👋
 
 ## About Me
+I'm a Digital Nomad currently seeking a place to settle. I've visited quite a few countries over the past two years and had a great time overall, but I have yet to find my ideal place to call home. Every journey has its conclusion.
+
 I'm passionate about clean-room reverse engineering and fixing bugs (or reporting them). I also enjoy resolving compatibility issues in legacy software, but above all, I take great satisfaction in assisting others with everyday challenges while adapting to new environments and being thrilled about the next problem to solve.
 
 If you would like to learn more about me, check out my [LinkedIn](https://linkedin.com/in/colistro123); you can also contact me via [e-mail](mailto:colistro123@aol.com). 
